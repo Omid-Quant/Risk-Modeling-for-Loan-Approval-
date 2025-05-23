@@ -1,6 +1,6 @@
 # Risk Modeling-for-Loan-Approval
 
-I developed a machine learning model to predict loan approvals based on applicant data, utilizing LightGBM and scikit-learn. Here’s a summary of my approach:
+I developed a machine learning model to predict the credit risk of loan default based on applicant data, utilizing LightGBM and scikit-learn. Here’s a summary of my approach:
 
 Data Processing: Cleaned and prepared a loan application dataset, managing both categorical and numerical variables.
 Feature Engineering: Encoded categorical features and standardized numerical data to optimize model performance.
