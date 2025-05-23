@@ -1,4 +1,4 @@
-# Risk Modeling-for-Loan-Approval
+# Risk Modeling-credit-risk-of-loan-default
 
 I developed a machine learning model to predict the credit risk of loan default based on applicant data, utilizing LightGBM and scikit-learn. Here’s a summary of my approach:
 
